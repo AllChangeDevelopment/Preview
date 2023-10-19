@@ -39,7 +39,7 @@ export default function App() {
                           <div>
                               <span className="fs-2">Points</span>
                               <br />
-                              <span className="fs-4">An example of our pointwork and how we aim to get every last detail. From every power ramp, to every rail.</span>
+                              <span className="fs-4">An example of our pointwork and how we aim to get every last detail. From every power ramp to every rail, expertly made by @redredstone.</span>
                           </div>
                       </div>
                       <div className="col">
